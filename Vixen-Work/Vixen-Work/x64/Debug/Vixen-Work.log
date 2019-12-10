@@ -1,0 +1,10 @@
+﻿  Button.cpp
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(46,38): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(93,38): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(119,11): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(120,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(121,12): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(122,25): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(122,18): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Kolanv\source\repos\Vixen-Work\Vixen-Work\Button.cpp(122,13): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Vixen-Work.vcxproj -> C:\Users\Kolanv\source\repos\Vixen-Work\x64\Debug\Vixen-Work.exe
